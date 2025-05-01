@@ -1,5 +1,5 @@
 getgenv().standList =  {
-    ["The World"] = true,
+    ["Whitesnake"] = true,
     ["Star Platinum"] = true,
     ["Star Platinum: The World"] = true,
     ["Crazy Diamond"] = true,
